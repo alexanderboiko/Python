@@ -1,2 +1,2 @@
-def say_hallo():
+def say_hello():
   pass
